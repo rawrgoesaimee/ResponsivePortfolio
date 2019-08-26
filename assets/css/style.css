@@ -2,8 +2,8 @@ body {
   font-family: 'Ribeye', cursive;
   font-size: 18px;
   line-height: 34px;
-  color: #777777;
-  background: url("../images/concrete_seamless.png");
+  color: #02424c;
+  background: url("../images/backgroundimage.jpg");
 }
 
 * {
@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: 'Ribeye', cursive;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #f19081;
 }
 
 h1 {
@@ -74,7 +74,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background:#f19081;
 }
 
 nav {
@@ -87,7 +87,7 @@ nav a {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 18px;
-  color: #999;
+  color: #02424c;
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
@@ -105,8 +105,8 @@ footer {
   color: #ffffff;
   color: #cccccc;
   text-align: center;
-  background: #666666;
-  border-top: 8px solid #4aaaa5;
+  background: #02424c;
+  border-top: 8px solid #f19081;
   height: 50px;
 }
 
@@ -164,7 +164,7 @@ h3, h2 {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
+  background:#f19081;
   border-bottom: 0;
 }
 
@@ -213,7 +213,7 @@ input[type=submit] {
   font-size: 18px;
   color: #ffffff;
   cursor: pointer;
-  background: #4aaaa5;
+  background:#f19081;
   border: 0 none;
 }
 
@@ -261,7 +261,7 @@ input[type=submit] {
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    background: #4aaaa5;
+    background: #f19081;
   }
    nav {
     display: inline-block;
